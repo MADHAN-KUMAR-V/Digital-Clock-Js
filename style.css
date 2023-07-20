@@ -1,0 +1,14 @@
+html{
+    background-color: #121212;
+    color: white;
+    font-size: 3rem;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+span{
+    margin: 0.5rem;
+}
